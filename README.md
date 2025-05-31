@@ -1,5 +1,5 @@
 <h1>
-  HIC-12M: A Large Scale Image-Text Dataset with Hierarchical Dense Image Captionss
+  HIC-12M: A Large Scale Image-Text Dataset with Hierarchical Dense Image Captions
 </h1>
 
 
